@@ -16,7 +16,7 @@
 
 // Reference type : (non primitive)
 
-// Array , Objects , Functions
+// Array [], Objects{} , Functions
 
 const heroes = ["naagraj", "shaktimaan" , "doga"];
 let myObj = {
