@@ -12,8 +12,9 @@
 // array methods 
 
 // myArray.push("bgmi")
-// push is used to add a new data type in the array from last 
+// // push is used to add a new data type in the array from last 
 // console.log(myArray);
+
 
 // myArray.pop()
 // pop is used to remove last data type of an array from last 
@@ -31,17 +32,17 @@
 // console.log(newArray);
 // console.log(typeof newArray);
 
-const game1 = [0,1,2,3,4,5];
-console.log("A:", game1);
+// const game1 = [0,1,2,3,4,5];
+// console.log("A:", game1);
 
-const nm1 = game1.slice(0,3);
+// const nm1 = game1.slice(0,3);
 
-console.log(nm1);
-console.log("B:", game1);
+// console.log(nm1);
+// console.log("B:", game1);
 
-const nm2 = game1.splice(0,4);
-console.log(nm2);
-console.log("C:", game1);
+// const nm2 = game1.splice(0,4);
+// console.log(nm2);
+// console.log("C:", game1);
 
 
 
